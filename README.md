@@ -13,4 +13,4 @@ add values you want to save in DataManager file.
 add a setter like the example.
 for getting a value you can either write a getter or just call the variable you add like:
 
-- DataManager.shared.dataYouWantToSave
+- let data = DataManager.shared.dataYouWantToSave
