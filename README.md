@@ -9,8 +9,8 @@ you can save any types of data into user defaults using this code
 
 # Usage
 Copy these two swift files in your project.
-add values you want to save in DataManager file
-add a setter like the example
+add values you want to save in DataManager file.
+add a setter like the example.
 for getting a value you can either write a getter or just call the variable you add like:
 
 - DataManager.shared.dataYouWantToSave
