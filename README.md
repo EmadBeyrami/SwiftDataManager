@@ -1,4 +1,4 @@
-# User Default Property Wrapper (DATA MANAGER) in Swift
+# User Default Property Wrapper (Data Manager) in Swift
 A best practice codebase for saving data in in user defaults
 you can save any types of data into user defaults using this code
 
