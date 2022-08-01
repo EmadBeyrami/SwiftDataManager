@@ -16,3 +16,6 @@ you can save any types of data into user defaults using this code
 ``` swift
 let data = DataManager.shared.dataYouWantToSave
 ```
+
+#### Buy me a coffee:
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=FRY432D75E4Q2)
